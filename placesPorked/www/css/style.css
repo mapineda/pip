@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+#map{
+        width:80%;
+        height:400px;
+        margin:10px auto;
+        box-shadow:0 3px 25px black;
+      }
+
+/* header */
+.bar-porked {
+  border-color: #fe848c;
+  background-color: #fe848c;
+  background-image: linear-gradient(0deg, #fe848c, #fe848c 50%, transparent 50%);
+  color: #fff;
+}
+
+/* button */
+.button-porked {
+  border-color: transparent;
+  background-color: #fe848c;
+  color: #fff;  
+}
