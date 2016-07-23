@@ -1,6 +1,6 @@
 angular.module('starter.controllers', ['ionic','firebase'])
 
-.controller('MapCtrl', ['$scope','$firebase','$firebaseArray','$ionicPopup', function($scope,$firebase,$firebaseArray,$firebaseObject,$ionicPopup) {
+.controller('MapCtrl', ['$scope','$firebaseObject','$firebaseArray','$ionicPopup', function($scope, $firebaseArray,$firebaseObject,$ionicPopup) {
 
 	$scope.user = {};
 

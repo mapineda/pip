@@ -18,5 +18,10 @@
 .button-porked {
   border-color: transparent;
   background-color: #fe848c;
-  color: #fff;  
+  color: #fff;
+}
+
+#pip-logo {
+  max-height: 100%;
+  max-width: 100%;
 }
